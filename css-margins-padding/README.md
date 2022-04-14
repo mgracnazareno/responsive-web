@@ -1,4 +1,4 @@
-# title(Awesome Blog){return this.options.title||this.options.name}
+# Awesome Blog 
 
 ## Supporting Scrimba
 
@@ -13,4 +13,4 @@ CSS Fundamentals
 	- Styling links
 
 # 
-	
+	![Awesome-Blog](https://user-images.githubusercontent.com/47845955/163305035-227dd6da-dabd-4d26-b24e-b5350692a227.png)
