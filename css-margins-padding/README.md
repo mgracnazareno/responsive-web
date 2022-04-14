@@ -1,7 +1,5 @@
 # Awesome Blog 
 
-## Supporting Scrimba
-
 The elements implemented in this project: 
 
 CSS Fundamentals
@@ -12,5 +10,4 @@ CSS Fundamentals
 	- Span element
 	- Styling links
 
-# 
-	![Awesome-Blog](https://user-images.githubusercontent.com/47845955/163305035-227dd6da-dabd-4d26-b24e-b5350692a227.png)
+# ![Awesome-Blog](https://user-images.githubusercontent.com/47845955/163305219-e0265aa9-8c04-42f6-9dfb-9d64b9f7b405.png)
