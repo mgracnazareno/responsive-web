@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# title(Awesome Blog){return this.options.title||this.options.name}
 
 ## Supporting Scrimba
 
@@ -11,4 +11,6 @@ CSS Fundamentals
 	- Inline and Block elements
 	- Span element
 	- Styling links
+
+# 
 	
